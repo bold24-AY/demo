@@ -1,4 +1,4 @@
 # demo
 This is  a demo repo 
 <br>
-Author - Ayush Thakur
+Author - Ayush Thakur(VIT)
